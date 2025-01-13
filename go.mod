@@ -6,7 +6,7 @@ toolchain go1.23.1
 
 require (
 	github.com/PuerkitoBio/goquery v1.10.0
-	github.com/alecthomas/kong v1.5.0
+	github.com/alecthomas/kong v1.6.1
 	github.com/andybalholm/brotli v1.1.1
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go-v2 v1.32.6
